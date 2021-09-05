@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    
+}
+
+#profile{
+    width:200px;
+    border-radius:50%;
+    margin-bottom: 50px;
+    
+}
+
+#intro{
+    background: linear-gradient(#e3d134 0%,#0acc5b 100%);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: white;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+#bio{
+background-color: #0acc5b;
+    
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    
+}
+
+.line{
+height: 6px;
+    background-color: black;
+    width: 150px;
+    margin: 8px auto;
+    border-radius: 30px;
+    
+}
+
+p{
+    max-width: 600px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+    
+}
